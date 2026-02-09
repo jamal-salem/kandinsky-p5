@@ -1,0 +1,10 @@
+# OS metadata
+.DS_Store
+desktop.ini
+
+# Shortcuts
+*.lnk
+
+# Archives & exports
+*.zip
+*.pdf

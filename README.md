@@ -1,52 +1,35 @@
-\# Kandinsky p5.js 🎨
+# Kandinsky p5.js 
 
+A generative abstract art project inspired by the style of Wassily Kandinsky,  
+implemented using JavaScript and the p5.js library.
 
+## Concept
+This project explores how abstract geometric art can be translated into
+code-based visual compositions. The artwork is generated using circles,
+lines, angles, and carefully balanced colors to resemble a Kandinsky-style
+composition.
 
-مشروع فن تجريدي مستوحى من أسلوب Wassily Kandinsky،  
+## Technologies Used
+- JavaScript
+- p5.js
+- HTML5 Canvas
+- Git & GitHub Pages
 
-تم تنفيذه باستخدام JavaScript ومكتبة p5.js.
+## Features
+- Code-generated geometric composition
+- Layered shapes and color harmony
+- Subtle animation for visual liveliness
+- Basic user interaction (mouse-based control)
+- Clean and organized project structure
 
-
-
-\## الفكرة
-
-تحويل لوحة فنية تجريدية إلى تكوين هندسي مولّد بالكود،
-
-يعتمد على الدوائر، الخطوط، والزوايا مع تناغم لوني مدروس.
-
-
-
-\## التقنيات المستخدمة
-
-\- JavaScript
-
-\- p5.js
-
-\- HTML5 Canvas
-
-\- Git \& GitHub Pages
-
-
-
-\## المميزات
-
-\- رسم هندسي مولّد بالكود
-
-\- تنظيم طبقات (Layers)
-
-\- قابل للتطوير (Animation \& Interaction)
-
-
-
-\## العرض المباشر
-
+## Live Demo
 🔗 https://jamal-salem.github.io/kandinsky-p5/
 
-
-
-\## المطوّر
-
-\*\*Jamal Salem\*\*
-
-
-
+## Project Structure
+```text
+kandinsky-p5/
+├── index.html
+├── sketch.js
+├── p5.min.js
+├── README.md
+└── .gitignore
